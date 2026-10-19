@@ -1,0 +1,10 @@
+% Russian localization catalog for MATLAB 6.5 (main scope)
+% Format: <(context)English source   >(context)Russian translation
+<(startup)  To get started, select "MATLAB Help" from the Help menu.
+>(startup)  Для начала выберите "MATLAB Help" в меню "Справка".
+<(startup)  To get started, type one of these: helpwin, helpdesk, or demo.
+>(startup)  Для начала введите одну из команд: helpwin, helpdesk или demo.
+<(startup)  For product information, visit www.mathworks.com.
+>(startup)  Сведения о продуктах: www.mathworks.com.
+<(test)MARKER_KEY
+>(test)RU_CATALOG_OK
